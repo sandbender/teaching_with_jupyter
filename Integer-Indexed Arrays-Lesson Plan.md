@@ -18,4 +18,5 @@
 #### Sidebar: Big-O Notation
 #### Student practice: Bubble Sort
 <br>
+
 #### Assignments & Further Reading
