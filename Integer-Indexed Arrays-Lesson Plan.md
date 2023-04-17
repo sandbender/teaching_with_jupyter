@@ -13,6 +13,8 @@
 ## Lesson flow...<br>
 
 #### Review: Variables: Scalars and Arrays
+<br>
+
 #### Array basics: keys/indices, common operations
 #### A simple example: binary search
 #### Sidebar: Big-O Notation
